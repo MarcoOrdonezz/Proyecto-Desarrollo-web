@@ -1,2 +1,2 @@
 # Proyecto-Desarrollo-web
-gestión Clinica
+Administacion Clinica
